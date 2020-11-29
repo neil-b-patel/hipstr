@@ -1,0 +1,30 @@
+#h1 {
+  font-family: "Libre Baskerville", serif;
+  font-weight: 700;
+  font-size: 4vw;
+  margin-top: 2vw;
+  margin-left: 2vw;
+}
+
+#h2 {
+  font-family: "Libre Baskerville", serif;
+  margin-top: 3vw;
+  margin-left: 3vw;
+  font-size: 2vw;
+}
+
+#genre {
+  font-family: "Shadows Into Light", cursive;
+  margin-left: 5vw;
+  margin-right: 15vw;
+  margin-top: 6vw;
+  font-size: 6vw;
+}
+
+#credits {
+font-family: "Libre Baskerville", serif;
+  font-size: 1vw;
+  text-align: right;
+  margin-top: 10vw;
+  margin-right: 1vw;
+}
